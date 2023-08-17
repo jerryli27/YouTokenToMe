@@ -1,3 +1,21 @@
+This is a fork of [YouTokenToMe](https://github.com/VKCOM/YouTokenToMe), created in order to fix build dependencies and make it possible to install the library using pip and poetry.
+
+The fix itself was provided  by [gburlet](https://github.com/gburlet) as a [pull request](https://github.com/VKCOM/YouTokenToMe/pull/108) in the original project, but has not yet been merged by the project mantainer.
+
+To install this project, run
+
+`pip install "git+https://github.com/LahiLuk/YouTokenToMe"`
+
+or
+
+`poetry add ""git+https://github.com/LahiLuk/YouTokenToMe"`
+
+I have tested the installation using Python 3.10.
+
+The README of the original project is below.
+
+<br/>
+
 ![PyPI](https://img.shields.io/pypi/v/youtokentome.svg)
 [![Downloads](https://pepy.tech/badge/youtokentome)](https://pepy.tech/project/youtokentome)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/python/black)
