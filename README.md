@@ -4,13 +4,17 @@ The fix itself was provided  by [gburlet](https://github.com/gburlet) as a [pull
 
 To install this project, run
 
-`pip install "git+https://github.com/LahiLuk/YouTokenToMe"`
+```
+pip install "git+https://github.com/LahiLuk/YouTokenToMe"
+```
 
 or
 
-`poetry add ""git+https://github.com/LahiLuk/YouTokenToMe"`
+```
+poetry add "git+https://github.com/LahiLuk/YouTokenToMe"
+```
 
-I have tested the installation using Python 3.10.
+The installation has been tested using Python 3.10.
 
 The README of the original project is below.
 
